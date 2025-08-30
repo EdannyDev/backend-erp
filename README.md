@@ -48,14 +48,14 @@ npm start
 http://localhost:5000
 
 ✨Endpoints principales
-Usuarios: /api/user
-Finanzas: /api/account, /api/payment, /api/transaction
-Inventario: /api/product, /api/category, /api/warehouse, /api/purchaseOrder, /api/receiving
-Ventas: /api/invoice, /api/quote, /api/client
-Recursos Humanos: /api/employee, /api/attendance, /api/payroll
-Proveedores: /api/supplier
-Configuración: /api/settings
-Reportes: /api/report
+Usuarios - /api/user
+Finanzas - /api/account, /api/payment, /api/transaction
+Inventario - /api/product, /api/category, /api/warehouse, /api/purchaseOrder, /api/receiving
+Ventas - /api/invoice, /api/quote, /api/client
+Recursos Humanos - /api/employee, /api/attendance, /api/payroll
+Proveedores - /api/supplier
+Configuración - /api/settings
+Reportes - /api/report
 
 🔗Enlaces útiles
-Frontend: https://github.com/EdannyDev/erp-app.git
+Frontend: https://github.com/EdannyDev/erp-app

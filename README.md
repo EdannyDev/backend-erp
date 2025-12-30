@@ -66,4 +66,4 @@ http://localhost:5000
 - Reportes: `/api/report`
 
 ## 🔗Enlaces útiles
-Frontend: https://github.com/EdannyDev/erp-app
+Frontend: https://github.com/EdannyDev/frontend-erp
